@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "62f0f0037f68dc76",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e07af09371ccf1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf062555c34f1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/Novel_Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Novel_Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c129a46b83ee7538",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7c876f53f9fa6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bcc0c75b3e79d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb9d994fd7c19240",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1421a59a525408e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08b962ab38818f8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31e4cf7daf70894f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b0234817fcd2f9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Dashboard/Novel_Hub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Novel_Hub"
+            }
+          },
+          {
+            "id": "93ff528a3ba51171",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Dashboard/Novel_Hub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Novel_Hub"
+            }
+          },
+          {
+            "id": "1652bf0d952343f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b117ecc836e167f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "58b45dcd8ad1154a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Dashboard/Novel_Hub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Novel_Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4cf062555c34f1a1",
+  "lastOpenFiles": [
+    "02_Karakter/Lin Nan.md",
+    "Xue Nalan.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Lie Nan.md",
+    "07_Ide",
+    "06_Plot/ARC_2.md",
+    "06_Plot/ARC_3.md",
+    "06_Plot/ARC_1.md",
+    "06_Plot",
+    "05_Riset",
+    "04_Bab",
+    "03_Alur_Cerita",
+    "02_Karakter",
+    "01_Dunia",
+    "00_Dashboard/Novel_Hub.md",
+    "00_Dashboard"
+  ]
+}
