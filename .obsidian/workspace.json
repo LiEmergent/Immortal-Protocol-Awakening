@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cf062555c34f1a1",
+            "id": "956fc6bffbb26e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Darft 1"
+            }
+          },
+          {
+            "id": "b4420d9f04a643c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Bab/Bab 1/Drfat 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drfat 2"
             }
           }
         ]
@@ -183,14 +197,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "4cf062555c34f1a1",
+  "active": "956fc6bffbb26e15",
   "lastOpenFiles": [
-    "06_Plot/ARC_1.md",
+    "04_Bab/Bab 1/Drfat 2.md",
     "04_Bab/Bab 1/Darft 1.md",
+    "Tanpa judul.md",
+    "Tanpa judul 2",
+    "Tanpa judul 1",
+    "05_Riset/Xue Nalan Arc 1 Pendalaman Karakter.md",
+    "Tanpa judul",
+    "07_Ide/Merancang kepribadian.md",
+    "06_Plot/ARC_1.md",
     "04_Bab/Bab 1",
     "02_Karakter/Liang Susu.md",
     "05_Riset/Liang Susu Arc 2 Pendalaman Karakter.md",
-    "05_Riset/Xue Nalan Arc 1 Pendalaman Karakter.md",
     "02_Karakter/Xue Nalan.md",
     "06_Plot/ARC_2.md",
     "02_Karakter/Lin Nan.md",
@@ -208,8 +228,6 @@
     "05_Riset",
     "04_Bab",
     "03_Alur_Cerita",
-    "02_Karakter",
-    "01_Dunia",
-    "00_Dashboard"
+    "02_Karakter"
   ]
 }
