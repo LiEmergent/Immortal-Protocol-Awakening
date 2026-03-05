@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Bab/Bab 1/Darft 1.md",
+                "file": "04_Bab/Bab 1/Drfat 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darft 1"
+              "title": "Drfat 2"
             }
           },
           {
@@ -188,31 +188,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Buat basis baru": false,
       "switcher:Buka peralih cepat": false,
       "graph:Buka tampilan grafik": false,
       "canvas:Buat kanvas baru": false,
       "daily-notes:Buka catatan hari ini": false,
       "templates:Masukkan template": false,
-      "command-palette:Buka palet perintah": false,
-      "bases:Create new base": false
+      "command-palette:Buka palet perintah": false
     }
   },
   "active": "956fc6bffbb26e15",
   "lastOpenFiles": [
-    "04_Bab/Bab 1/Drfat 2.md",
+    "04_Bab/Bab 1/draft 4.md",
+    "04_Bab/Bab 1/Draft 3.md",
     "04_Bab/Bab 1/Darft 1.md",
+    "04_Bab/Bab 1/Drfat 2.md",
+    "06_Plot/ARC_3.md",
+    "06_Plot/ARC_2.md",
+    "06_Plot/ARC_1.md",
+    "05_Riset/Xue Nalan Arc 1 Pendalaman Karakter.md",
+    "05_Riset/Liang Susu Arc 2 Pendalaman Karakter.md",
+    "07_Ide/Tanpa judul.md",
     "Tanpa judul.md",
     "Tanpa judul 2",
     "Tanpa judul 1",
-    "05_Riset/Xue Nalan Arc 1 Pendalaman Karakter.md",
     "Tanpa judul",
     "07_Ide/Merancang kepribadian.md",
-    "06_Plot/ARC_1.md",
     "04_Bab/Bab 1",
     "02_Karakter/Liang Susu.md",
-    "05_Riset/Liang Susu Arc 2 Pendalaman Karakter.md",
     "02_Karakter/Xue Nalan.md",
-    "06_Plot/ARC_2.md",
     "02_Karakter/Lin Nan.md",
     "01_Dunia/Main Story.md",
     "01_Dunia/Lore Utama Dunia.md",
@@ -223,7 +227,6 @@
     "Untitled.canvas",
     "Lie Nan.md",
     "07_Ide",
-    "06_Plot/ARC_3.md",
     "06_Plot",
     "05_Riset",
     "04_Bab",
