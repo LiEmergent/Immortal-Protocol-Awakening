@@ -4,7 +4,7 @@
 Total chapter target: 200
 
 ## Arc Story
-[[ARC_1]]
+[[ARC_1, alternatif]]
 [[ARC_2]]
 [[ARC_3]]
 

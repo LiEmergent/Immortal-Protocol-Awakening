@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Bab/Bab 1/Drfat 2.md",
+                "file": "04_Bab/Bab 1/Draft 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drfat 2"
+              "title": "Draft 2"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Bab/Bab 1/Drfat 2.md",
+                "file": "08_Draft Acak/Dunia Asing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drfat 2"
+              "title": "Dunia Asing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08b962ab38818f8b",
@@ -197,35 +199,39 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "956fc6bffbb26e15",
+  "active": "b4420d9f04a643c6",
   "lastOpenFiles": [
-    "04_Bab/Bab 1/draft 4.md",
-    "04_Bab/Bab 1/Draft 3.md",
-    "04_Bab/Bab 1/Darft 1.md",
-    "04_Bab/Bab 1/Drfat 2.md",
-    "06_Plot/ARC_3.md",
-    "06_Plot/ARC_2.md",
-    "06_Plot/ARC_1.md",
-    "05_Riset/Xue Nalan Arc 1 Pendalaman Karakter.md",
-    "05_Riset/Liang Susu Arc 2 Pendalaman Karakter.md",
     "07_Ide/Tanpa judul.md",
+    "08_Draft Acak/Dunia Asing.md",
+    "08_Draft Acak",
+    "07_Ide/Merancang kepribadian.md",
+    "README.md",
+    "Lie Nan.md",
+    "Xue Nalan.md",
+    "Welcome.md",
     "Tanpa judul.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "04_Bab/Bab 1/Dunia Asing.md",
+    "04_Bab/Bab 1/Draft 5.md",
+    "06_Plot/ARC 1.md",
+    "04_Bab/Bab 1/Draft 4.md",
+    "04_Bab/Bab 1/Draft 3.md",
+    "04_Bab/Bab 1/Draft 2.md",
+    "04_Bab/Bab 1/Draft 1.md",
+    "05_Riset/Liang Susu Arc 2 Pendalaman Karakter.md",
+    "05_Riset/Xue Nalan Arc 1 Pendalaman Karakter.md",
+    "02_Karakter/Lin Nan.md",
+    "06_Plot/ARC_1, alternatif.md",
+    "06_Plot/ARC_2.md",
+    "06_Plot/ARC_3.md",
     "Tanpa judul 2",
     "Tanpa judul 1",
-    "Tanpa judul",
-    "07_Ide/Merancang kepribadian.md",
     "04_Bab/Bab 1",
     "02_Karakter/Liang Susu.md",
     "02_Karakter/Xue Nalan.md",
-    "02_Karakter/Lin Nan.md",
     "01_Dunia/Main Story.md",
     "01_Dunia/Lore Utama Dunia.md",
-    "00_Dashboard/Novel_Hub.md",
-    "Xue Nalan.md",
-    "Welcome.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Lie Nan.md",
     "07_Ide",
     "06_Plot",
     "05_Riset",
